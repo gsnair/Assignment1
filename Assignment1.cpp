@@ -16,6 +16,12 @@ int main()
    "\n-ulations.\n\n";
    cout << "Specific Lab Detail #3: In general, single-letter variable names"
    "\nshould be avoided. Exceptions are made for counters/indices.\n\n";
+   
+   cout << "this is a change for practicing with git";
+   cout << "this is another change for practicing with git";
+   cout << "yet another";
+   cout << "ad nauseum";
+
    return 0;
 }
 
